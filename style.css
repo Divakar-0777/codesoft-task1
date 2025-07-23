@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+header {
+  background: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+section {
+  padding: 20px;
+}
+#job-list {
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+.job {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+#search {
+  margin-bottom: 15px;
+  padding: 8px;
+  width: 100%;
+  max-width: 400px;
+  display: block;
+}
